@@ -1,0 +1,5 @@
+{"action":"evaluate","payload":{"topic":"Daily routine","writingTask":"Describe your typical weekday in 3-5 sentences.","writing":"În fiecare dimineață eu mă trezesc la ora șapte și eu beau o cafea cu lapte. După aceea, eu merg la lucru cu autobuzul, dar uneori merg pe jos dacă vremea este bun. La serviciu am multe reuniuni și trebuie scriu multe emailuri la colegii mei. La prânz mănânc în cantina cu prietenii, și vorbim despre lucruri interesanți. Seara, când ajung în casă, îmi place să citesc o carte sau să văd un film, și apoi mă culc la unsprezece.","mistakes":[
+{"id":1,"stem":"Mă ____ la ora șapte.","options":["trezesc","culc","spăl","duc"],"userIndex":1,"correctIndex":0},
+{"id":4,"stem":"Vreau ____ plec devreme.","options":["să","că","de","la"],"userIndex":1,"correctIndex":0},
+{"id":5,"stem":"Merg ____ serviciu.","options":["la","în","pe","cu"],"userIndex":1,"correctIndex":0},
+{"id":7,"stem":"A-și face ____.","options":["timp","loc","casă","drum"],"userIndex":2,"correctIndex":0}]}}
